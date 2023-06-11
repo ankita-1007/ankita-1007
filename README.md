@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I am Ankita</h1>
-<h3 align="center">A tech and DSA enthusiast who loves creating web dev projects. </h3>
+<h3 align="center">A tech and DSA enthusiast who loves creating projects. </h3>
 <img align="right" alt="Girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently exploring **Machine Learning and Computer Vision**
