@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there 👋, I am Ankita</h1>
 <h3 align="center">A tech and DSA enthusiast who loves creating projects. </h3>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-1007&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-1007" /> </p> --!>
 <img align="right" alt="Girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+- 👨‍💻 Final-year CSE student at **Thapar University,Patiala** 
 
 - 🔭 I’m currently exploring **Machine Learning and Computer Vision**
 
@@ -21,10 +24,11 @@
 
 
 
-<p><img style="background-color:black; align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-1007&theme=dark&show_icons=true&locale=en&layout=compact" alt="ankita-1007" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita-1007&&theme=dark&show_icons=true&locale=en&layout=compact" alt="ankita-1007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita-1007&theme=dark&show_icons=true&locale=en&layout=compact" alt="ankita-1007" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita-1007&&theme=dark&show_icons=true&locale=en&layout=compact" alt="ankita-1007" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita-1007&theme=dark&show_icons=true&locale=en&layout=compact" alt="ankita-1007" /></p>
+
+
 
 
 
