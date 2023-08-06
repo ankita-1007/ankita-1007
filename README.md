@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ankitasharma102002@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1N6zc1695vDKnW2y9MJa4XMMdmcUqK4to/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1cJixW9mEXDQf5xN58XfSApIEeJvzUxEX/view?usp=sharing">My Resume</a>
 
 - ⚡ Fun fact : **Ctrl + Alt + Del: reset and thrive**
 
