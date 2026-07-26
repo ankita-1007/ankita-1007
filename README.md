@@ -13,7 +13,7 @@
 
 - 📦 Published a pip package → [`TOPSIS` on PyPI](https://pypi.org/project/TOPSIS-Ankita-102017120/)
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1cJixW9mEXDQf5xN58XfSApIEeJvzUxEX/view?usp=sharing) & [Portfolio](https://ankita-1007.github.io/Ankita-Sharma/)
+- 📄 Check out my [Resume](https://ankita-1007.github.io/Ankita-Sharma/Ankita_resume.pdf) & [Portfolio](https://ankita-1007.github.io/Ankita-Sharma/)
 
 - 📫 Reach me at **ankitasharma102002@gmail.com**
 
